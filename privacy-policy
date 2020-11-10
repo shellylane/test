@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="icon" type="image/png" href="/images/favicon.png" />
+    <script
+      src="https://kit.fontawesome.com/b352698027.js"
+      crossorigin="anonymous"
+    ></script>
+    <!-- Pagesense tag -->
+    <script src="https://cdn.pagesense.io/js/tortus/77bf846a239442cd9afe66f1fbc4c998.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-159138136-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-159138136-1");
+    </script>
+
+    <title>Tortus | Privacy Policy</title>
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
+    />
+  </head>
+
+  <body>
+    <div class="site-container privacy">
+      <div class="max-width-1">
+        <div class="site-header">
+          <h1 class="header-logo">
+            <a href="/"></a>
+          </h1>
+          <nav class="site-nav">
+            <input class="menu-btn" type="checkbox" id="menu-btn" />
+            <label class="menu-icon" for="menu-btn"
+              ><span class="nav-icon"></span
+            ></label>
+            <ul class="menu">
+              <li>
+                <a href="/" class="nav-item">Owners</a>
+              </li>
+              <li>
+                <a href="/renters" class="nav-item">Renters</a>
+              </li>
+              <li>
+                <a href="/about-us" class="nav-item">About Us</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <section id="hero">
+          <div class="copy-wrapper">&nbsp;</div>
+        </section>
+      </div>
+
+      <section id="tertiary">
+        <div class="max-width-2">
+          <div class="legal">
+            <h3>Privacy Policy</h3>
+            <h6>Last updated: February 1, 2020</h6>
+            <p>
+              This Privacy Policy describes Our policies and procedures on the
+              collection, use and disclosure of Your Information (defined
+              herein) when You use the Service and tells You about Your privacy
+              rights and how the law protects You.
+            </p>
+            <p>
+              We use Your Information (defined herein) to provide and improve
+              the Service. By using the Service, You agree to the collection and
+              use of Information (defined herein) in accordance with this
+              Privacy Policy.
+            </p>
+
+            <p></p>
+
+            <h4>1. Interpretations</h4>
+            <p>
+              The words of which the initial letter is capitalized have meanings
+              defined as follows (both singular and plural):.
+            </p>
+
+            <h4>2. Definitions</h4>
+            <p>For the purposes of this Privacy Policy:</p>
+            <ul>
+              <li>
+                <span class="underline">“You”</span> means the individual
+                accessing or using the Service, or the company, or other legal
+                entity on behalf of which such individual is accessing or using
+                the Service, as applicable.
+              </li>
+              <li>
+                <span class="underline">“Company”</span>
+                (referred to as either "the Company", "We", "Us" or "Our" in
+                this Agreement) refers to Tortus LLC., 214 West 29th Street, New
+                York, NY 10001.
+              </li>
+              <li>
+                <span class="underline">“Affiliate”</span> means an entity that
+                controls, is controlled by or is under common control with a
+                party, where "control" means ownership of 50% or more of the
+                shares, membership interests, equity interest or other
+                securities entitled to vote for election of directors or other
+                managing authority.
+              </li>
+              <li>
+                <span class="underline">“Account”</span> means a unique account
+                created for You to access Our Service or parts of Our Service.
+              </li>
+              <li>
+                <span class="underline">“Website”</span> refers to the Tortus
+                website, accessible at
+                <a href="/">https://www.tortus.io</a>
+              </li>
+              <li>
+                <span class="underline">“Service”</span> refers to the Website.
+              </li>
+              <li>
+                <span class="underline">“Country”</span> refers to: New York,
+                United States
+              </li>
+              <li>
+                <span class="underline">“Service Provider”</span>
+                means any natural or legal person who processes the data on
+                behalf of the Company. Further, Service Provider refers to
+                third-party companies or individuals employed by the Company to
+                facilitate the Service, to provide the Service on behalf of the
+                Company, to perform services related to the Service or to assist
+                the Company in analyzing how the Service is used.
+              </li>
+              <li>
+                <span class="underline"
+                  >“Third-party Social Media Service”</span
+                >
+                refers to any website or any social network website through
+                which a User can log in or create an account to use the Service.
+              </li>
+              <li>
+                <span class="underline">“Personal Data”</span>
+                is any information that relates to an identified or identifiable
+                individual and can include a name, identification number,
+                location data, online identifier or one or more factors specific
+                to the physical, psychological, genetic, mental, economic,
+                cultural and/or social identify of an individual. Further and
+                for the avoidance of doubt, “Personal Data” shall also include
+                information that identifies, relates to, describes or is capable
+                of being associated with or could reasonably be linked, directly
+                or indirectly to You. Personal Data is further defined in
+                Section 3.1.1.
+              </li>
+              <li>
+                <span class="underline">“Cookies”</span> are small files that
+                are placed on Your computer, mobile device or any other device
+                by a website, containing the details of Your browsing history on
+                that website among its many uses.
+              </li>
+              <li>
+                <span class="underline">“Usage Data”</span>
+                refers to data collected automatically, either generated by the
+                use of the Service or from the Service infrastructure itself
+                (for example, the duration of a page visit).
+              </li>
+              <li>
+                <span class="underline">“Do Not Track (DNT)”</span>
+                is a concept that has been promoted by US regulatory
+                authorities, in particular the U.S. Federal Trade Commission
+                (FTC), for the Internet industry to develop and implement a
+                mechanism for allowing internet users to control the tracking of
+                their online activities across websites.
+              </li>
+              <li>
+                <span class="underline">“Business Data”</span>
+                is any information that relates to Your business activities.
+              </li>
+              <li>
+                <span class="underline">“Information”</span> is any information
+                that relates to Personal Data and Business Data.
+              </li>
+              <li>
+                <span class="underline">“Anonymized Data”</span>
+                is a data processing technique that removes or modifies
+                personally identifiable information; it results in anonymized
+                data that cannot be associated with any one individual.
+              </li>
+            </ul>
+            <h4>3. Types of Information Collected</h4>
+            <h5>3.1 Information You Provide Us</h5>
+            <h6>3.1.1 Personal Data</h6>
+            <p>
+              While using Our Service, We may ask You to provide Us with certain
+              personally identifiable information that can be used to contact or
+              identify You. Personal Data may include, but is not limited to:
+            </p>
+            <ul>
+              <li>
+                <span class="bold">Account Information.</span>
+                When You create an account, We require certain information such
+                as Your first name, last name, email address, role, and phone
+                number.
+              </li>
+              <li>
+                <span class="bold">Profile Information.</span>
+                To use certain features of the Service, We may ask You to
+                provide additional information such as Your Address, State,
+                Province, ZIP/Postal code, City, Country, profile picture or
+                company logo.
+              </li>
+              <li>
+                <span class="bold">Identity Verification Information.</span>
+                To use certain features of the Service, We may collect identity
+                verification information in connection with (a) creating and
+                maintaining the security of our Services, (b) providing
+                background and screening services, (c) fulfilling “know your
+                customer” processes, required for certain payment services, (d)
+                enabling You to make and receive payments, and (e) complying
+                with other various regulatory requirements, You may be required
+                to provide Us with information that can be used to verify Your
+                identity, such as Your social security number, tax
+                identification number, images of Your driver's license,
+                government issued ID, passport, national ID card, birthdate, and
+                other authentication information.
+              </li>
+              <li>
+                <span class="bold">Communications with other Users.</span>
+                When You communicate through Our Service, We may collect
+                information about Your communication and any information You
+                choose to provide.
+              </li>
+            </ul>
+
+            <h6>3.1.2 Business Data</h6>
+            <p>
+              While using Our Service, We may ask You to provide Us with certain
+              information related to Your business. We understand Your Business
+              Data is sensitive (and in some instances confidential). As such,
+              we do not access, use or disclose Your Business Data except as set
+              forth below in sections 4 and 5.
+            </p>
+            <h5>3.2 Information Collected When Using Our Service</h5>
+            <h6>3.2.1 Usage Data</h6>
+            <p>Usage Data is collected automatically when using the Service.</p>
+            <p>
+              Usage Data may include information such as Your Device's Internet
+              Protocol address (e.g. IP address), browser type, browser version,
+              the pages of our Service that You visit, the time and date of Your
+              visit, the time spent on those pages, unique device identifiers
+              and other diagnostic data.
+            </p>
+            <p>
+              When You access the Service by or through a mobile device, We may
+              collect certain information automatically, including, but not
+              limited to, the type of mobile device You use, Your mobile device
+              unique ID, the IP address of Your mobile device, Your mobile
+              operating system, the type of mobile Internet browser You use,
+              unique device identifiers and other diagnostic data.
+            </p>
+            <p>
+              We may also collect information that Your browser sends whenever
+              You visit our Service or when You access the Service by or through
+              a mobile device.
+            </p>
+
+            <h6>3.2.2 Tracking Technologies and Cookies</h6>
+            <p>
+              We use Cookies and similar tracking technologies to track the
+              activity on Our Service and store certain information. Tracking
+              technologies used are beacons, tags, and scripts to collect and
+              track information and to improve and analyze Our Service.
+            </p>
+            <p>
+              You can instruct Your browser to refuse all Cookies or to indicate
+              when a Cookie is being sent. However, if You do not accept
+              Cookies, You may not be able to use some parts of our Service and
+              We will not be responsible for Your inability to access any part
+              of our Service based on Your failure to accept Cookies.
+            </p>
+            <p>
+              Cookies can be "Persistent" or "Session" Cookies. Persistent
+              Cookies remain on Your personal computer or mobile device when You
+              go offline, while Session Cookies are deleted as soon as You close
+              Your web browser.
+            </p>
+            <p>
+              We use both session and persistent Cookies for the purposes set
+              out below:
+            </p>
+            <ul>
+              <li>
+                <span class="bold">Necessary / Essential Cookies</span><br />
+                <span class="underline">Type:</span> Session Cookies<br />
+                <span class="underline">Administered by:</span>
+                Us<br />
+                <span class="underline">Purpose:</span> These Cookies are
+                essential to provide You with the Services and to enable You to
+                use some of its features. They help to authenticate users and
+                prevent fraudulent use of user accounts. Without these Cookies,
+                the Service that You have asked for cannot be provided, and We
+                only use these Cookies to provide You with those Services.
+              </li>
+              <li>
+                <span class="bold"
+                  >Cookies Policy / Notice Acceptance Cookies</span
+                ><br />
+                <span class="underline">Type: Persistent Cookies</span><br />
+                <span class="underline">Administered by:</span>
+                Us<br />
+                <span class="underline">Purpose:</span> These Cookies identify
+                if users have accepted the use of cookies on the Website
+              </li>
+              <li>
+                <span class="bold">Functionality Cookies</span><br />
+                <span class="underline">Type:</span> Persistent Cookies<br />
+                <span class="underline">Administered by:</span>
+                Us<br />
+                <span class="underline">Purpose:</span> These Cookies allow Us
+                to remember choices You make when You use the Website, such as
+                remembering Your login details or language preference. The
+                purpose of these Cookies is to provide You with a more personal
+                experience and to avoid You having to re-enter Your preferences
+                every time You use the Website.
+              </li>
+              <li>
+                <span class="bold">Tracking and Performance Cookies</span><br />
+                <span class="underline">Type:</span> Persistent Cookies
+                <span class="underline">Administered by:</span>
+                Third-Parties
+                <span class="underline">Purpose:</span> These Cookies are used
+                to track information about traffic to the Website and how users
+                use the Website. The information gathered via these Cookies may
+                directly or indirectly identify You as an individual visitor.
+                This is because the information collected is typically linked to
+                a pseudonymous identifier associated with the device You use to
+                access the Website. We may also use these Cookies to test new
+                advertisements, pages, features or new functionality of the
+                Website to see how our users react to them.
+              </li>
+            </ul>
+            <p>
+              For more information about the cookies We use and Your choices
+              regarding cookies, please visit our
+              <a href="/cookies-policy">Cookies Policy</a>.
+            </p>
+            <h5>
+              3.3 Information Collected from Third Party Service Providers
+            </h5>
+            <h4>3.3.1 Information from Third-Party Social Media Services</h4>
+            <p>
+              The Company allows You to create an account and log in to use the
+              Service through the following Third-party Social Media Services:
+            </p>
+            <ul>
+              <li>Google</li>
+              <li>Facebook</li>
+            </ul>
+            <p>
+              If You decide to register through or otherwise grant Us access to
+              a Third-Party Social Media Service, We may collect Personal Data
+              that is already associated with Your Third-Party Social Media
+              Service's account, such as Your name, Your email address, Your
+              activities or Your contact list associated with that account.
+            </p>
+            <p>
+              You may also have the option of sharing additional information
+              with the Company through Your Third-Party Social Media Service's
+              account. If You choose to provide such information and Personal
+              Data, during registration or otherwise, Your action will be deemed
+              to give the Company permission to use, share, and store Your
+              Personal Data in a manner consistent with this Privacy Policy.
+            </p>
+
+            <h6>3.3.2 Publicly Available Information</h6>
+            <p>
+              The Company may collect information about You from publicly
+              available databases, such as property records and news filings.
+            </p>
+
+            <h6>3.3.3 Credit and Background Information</h6>
+            <p>
+              The Company may also collect information about You from Our
+              service provider, TransUnion, who performs credit and background
+              screening services.
+            </p>
+
+            <h4>4. How We Use, Share and Disclose Your Information</h4>
+            <h5>4.1 Use of Your Information</h5>
+            <p>
+              The Company may use Your information for the following purposes:
+            </p>
+            <ul>
+              <li>
+                <span class="bold">To provide and maintain Our Service,</span>
+                including to monitor the usage of Our Service.
+              </li>
+              <li>
+                <span class="bold">To manage Your Account:</span>
+                to manage Your registration as a user of the Service. The
+                information You provide can give You access to different
+                functionalities of the Service that are available to You as a
+                registered user.
+              </li>
+              <li>
+                <span class="bold">For the performance of a contract:</span>
+                The development, compliance and undertaking of the purchase
+                contract for the products, items or services You have purchased
+                or of any other contract with Us through the Service.
+              </li>
+              <li>
+                <span class="bold">To contact You:</span> To contact You by
+                email, telephone calls, SMS, or other equivalent forms of
+                electronic communication, such as a mobile application's push
+                notifications regarding updates or informative communications
+                related to the functionalities, products or contracted services,
+                including the security updates, when necessary or reasonable for
+                their implementation.
+              </li>
+              <li>
+                <span class="bold">To provide You with news,</span>
+                special offers and general information about other goods,
+                services and events which We offer that are similar to those
+                that You have already purchased or enquired about unless You
+                have opted not to receive such information.
+              </li>
+              <li>
+                <span class="bold">To manage Your requests:</span>
+                To attend and manage Your requests to Us.
+              </li>
+            </ul>
+
+            <h5>4.2 Sharing of Your Information</h5>
+            <p>
+              The Company may share Your Information in the following
+              situations:
+            </p>
+            <ul>
+              <li>
+                <span class="bold">With Service Providers:</span>
+                We may share Your Information with Third-Party Service Providers
+                to help us provide our services such as payment processing,
+                identity verification, background checks, monitor and analyze
+                the use of our Service, to show advertisements to You to help
+                support and maintain Our Service, to contact You, to advertise
+                on third party websites to You after You visited Our Service or
+                for payment processing.
+              </li>
+              <li>
+                <span class="bold">For Business transfers:</span>
+                We may share or transfer Your Information in connection with, or
+                during negotiations of, any merger, sale of Company assets,
+                financing, or acquisition of all or a portion of Our business to
+                another company.
+              </li>
+              <li>
+                <span class="bold">With Affiliates:</span> We may share Your
+                information with Our affiliates, in which case We will require
+                those affiliates to honor this Privacy Policy. Affiliates
+                include Our parent company and any other subsidiaries, joint
+                venture partners or other companies that We control or that are
+                under common control with Us.
+              </li>
+              <li>
+                <span class="bold">With Business Partners:</span>
+                We may share Your information with Our business partners to
+                offer You certain products, services or promotions.
+              </li>
+              <li>
+                <span class="bold">With other users:</span> Some of our Services
+                allow You to publish information to the public. When You share
+                Information or otherwise interact in the public areas with other
+                users, such information may be viewed by all users and may be
+                publicly distributed outside.
+              </li>
+              <li>
+                <span class="bold">Sharing With Consent:</span>
+                We may share Your Information with other users that You
+                expressly authorize. For example, if You use Our Services You
+                may submit an application with Your Information and consent to
+                sharing this Information with the expressed member.
+              </li>
+              <li>
+                <span class="bold">Anonymized Data:</span> We may share
+                aggregated and anonymized information to create industry
+                reports. These reports may be made available or provided to the
+                public.
+              </li>
+            </ul>
+
+            <h5>4.3 Retention of Your Information</h5>
+            <p>
+              The Company will retain Your Information only for as long as is
+              necessary for the purposes set out in this Privacy Policy. We will
+              retain and use Your Information to the extent necessary to comply
+              with Our legal obligations (for example, if we are required to
+              retain Your Personal Data and Business Data to comply with
+              applicable laws), resolve disputes, and enforce our legal
+              agreements and policies.
+            </p>
+            <p>
+              The Company will also retain Usage Data for internal analysis
+              purposes. Usage Data is generally retained for a shorter period of
+              time, except when this Usage Data is used to strengthen the
+              security or to improve the functionality of Our Service, or We are
+              legally obligated to retain this Usage Data for longer time
+              periods.
+            </p>
+            <p>
+              Please note that if You request that Your Information be removed
+              from Our databases, it may not be possible to completely delete
+              all of Your Information due to technological and legal
+              constraints. Your decision to proceed with using the Service will
+              be deemed to be an acceptance of the possibility that not all of
+              Your Information may be able to be deleted upon Your request.
+            </p>
+
+            <h5>4.4 Transfer of Your Information</h5>
+            <p>
+              Your Information, including Personal Data and Business Data, is
+              processed at the Company's operating offices and in any other
+              places where the parties involved in the processing are located.
+              It means that this Information may be transferred to — and
+              maintained on — computers located outside of Your state, province,
+              country or other governmental jurisdiction where the data
+              protection laws may differ than those from Your jurisdiction.
+            </p>
+            <p>
+              Your consent to this Privacy Policy followed by Your submission of
+              such Information represents Your agreement to that transfer.
+            </p>
+            <p>
+              The Company will take all steps reasonably necessary to ensure
+              that Your Information is treated securely and in accordance with
+              this Privacy Policy and no transfer of Your Information will take
+              place to an organization or a country unless there are adequate
+              controls in place including the security of Your Information and
+              other Personal Data.
+            </p>
+
+            <h6>4.4.1 Business Transactions</h6>
+            <p>
+              If the Company is involved in a merger, acquisition or asset sale,
+              Your Information may be transferred. We will provide notice before
+              Your Information is transferred and becomes subject to a different
+              Privacy Policy.
+            </p>
+
+            <h6>4.4.2 Law Enforcement</h6>
+            <p>
+              Under certain circumstances, the Company may be required to
+              disclose Your Information if required to do so by law or in
+              response to valid requests by public authorities (e.g. a court or
+              a government agency).
+            </p>
+
+            <h6>4.4.3 Other Legal Requirements</h6>
+            <p>
+              The Company may disclose Your Information in the good faith belief
+              that such action is necessary to:
+            </p>
+            <ul>
+              <li>Comply with a legal obligation</li>
+              <li>Protect and defend the rights or property of the Company</li>
+              <li>
+                Prevent or investigate possible wrongdoing in connection with
+                the Service
+              </li>
+              <li>
+                Protect the personal safety of Users of the Service or the
+                public
+              </li>
+              <li>Protect against legal liability</li>
+            </ul>
+
+            <h5>4.5 Security of Your Information</h5>
+            <p>
+              The security of Your Information is important to Us, but remember
+              that no method of transmission over the Internet, or method of
+              electronic storage is 100% secure. While We strive to use
+              commercially acceptable and reasonable means to protect Your
+              Information, We cannot guarantee its absolute security and nothing
+              herein will be deemed to imply any such promise on Our behalf.
+            </p>
+
+            <h4>
+              5. Detailed Information on the Processing of Your Information
+            </h4>
+            <p>
+              Service Providers have access to Your Information only to perform
+              their tasks on Our behalf and are permitted not to disclose or use
+              it for any other purpose.
+            </p>
+
+            <h5>5.1 Analytics</h5>
+            <p>
+              We may use third-party Service providers to monitor and analyze
+              the use of Our Service.
+            </p>
+
+            <h6>5.1.1 Google Analytics</h6>
+            <p>
+              Google Analytics is a web analytics service offered by Google that
+              tracks and reports website traffic. Google uses the data collected
+              to track and monitor the use of Our Service. This data is shared
+              with other Google services. Google may use the collected data to
+              contextualise and personalize the ads of its own advertising
+              network.
+            </p>
+            <p>
+              You can opt-out of having made Your activity on the Service
+              available to Google Analytics by installing the Google Analytics
+              opt-out browser add-on. The add-on prevents the Google Analytics
+              JavaScript (ga.js, analytics.js and dc.js) from sharing
+              information with Google Analytics about Your visits and/or
+              activity.
+            </p>
+            <p>
+              For more information on the privacy practices of Google, please
+              visit the Google Privacy Terms web page:
+              <a
+                href="https://policies.google.com/privacy?hl=en"
+                target="_blank"
+                >https://policies.google.com/privacy?hl=en</a
+              >.
+            </p>
+
+            <h5>5.2 Email Marketing</h5>
+            <p>
+              We may use Your Information to contact You with newsletters,
+              marketing or promotional materials and other information that may
+              be of interest to You. You may opt-out of receiving any, or all,
+              of these communications from Us by following the unsubscribe link
+              or instructions provided in any email We send or by contacting Us
+              at Our email address,
+              <a href="mailto:support@tortus.io" target="_blank"
+                >support@tortus.io</a
+              >.
+            </p>
+            <p>
+              We may use Email Marketing Service Providers to manage and send
+              emails to You.
+            </p>
+
+            <h5>5.3 Behavioral Remarketing</h5>
+            <p>
+              The Company uses remarketing services to advertise on third party
+              websites to You after You visited our Service. We and Our
+              third-party vendors use cookies to inform, optimize and serve ads
+              based on Your past visits to our Service. Your use of the Service
+              will be deemed consent to these remarketing services.
+            </p>
+
+            <h5>5.4 Payments</h5>
+            <p>
+              We may provide paid products and/or services within the Service.
+              In that case, We may use third-party services for payment
+              processing (e.g. payment processors).
+            </p>
+            <p>
+              We will not store or collect Your payment card details. That
+              information is provided directly to Our third-party payment
+              processors whose use of Your personal information is governed by
+              their Privacy Policy. These payment processors adhere to the
+              standards set by PCI-DSS as managed by the PCI Security Standards
+              Council, which is a joint effort of brands like Visa, Mastercard,
+              American Express and Discover. PCI-DSS requirements help ensure
+              the secure handling of payment information.
+            </p>
+
+            <h6>5.4.1 Stripe</h6>
+            <p>
+              Their Privacy Policy can be viewed at
+              <a href="https://stripe.com/us/privacy" target="_blank"
+                >https://stripe.com/us/privacy</a
+              >.
+            </p>
+
+            <h5>5.5 Credit & Background Check Reporting</h5>
+            <p>
+              We may use Your Information to perform credit and background
+              checks as We deem necessary in furtherance of providing the
+              Service.
+            </p>
+            <p>
+              We will not store or collect Your Personal Data. That information
+              is provided directly to Our third-party service provider whose use
+              of Your Personal Data is governed by their Privacy Policy. These
+              service providers adhere to the standards set by the Fair Credit
+              Reporting Act (“FCRA”).
+            </p>
+
+            <h6>5.5.1 TransUnion LLC.</h6>
+            <p>
+              Their Privacy Policy can be viewed at
+              <a href="https://www.transunion.com/privacy/transunion"
+                >https://www.transunion.com/privacy/transunion</a
+              >.
+            </p>
+
+            <h5>5.6 Usage, Performance and Miscellaneous</h5>
+            <p>
+              We may use third-party Service Providers to provide better
+              improvement of our Service. Your use of the Service will be deemed
+              consent to Our use of third-party Service Providers as set forth
+              herein.
+            </p>
+
+            <h6>5.6.1 Invisible reCAPTCHA</h6>
+            <p>
+              We use an invisible captcha service named reCAPTCHA. reCAPTCHA is
+              operated by Google.
+            </p>
+            <p>
+              The reCAPTCHA service may collect information from You and from
+              Your Device for security purposes.
+            </p>
+            <p>
+              The information gathered by reCAPTCHA is held in accordance with
+              the Privacy Policy of Google:
+              <a href="https://www.google.com/intl/en/policies/privacy/"
+                >https://www.google.com/intl/en/policies/privacy/</a
+              >".
+            </p>
+
+            <h6>5.6.2 FreshDesk</h6>
+            <p>
+              FreshDesk is a customer support software. The service is operated
+              by Freshworks, Inc.
+            </p>
+
+            <p></p>
+            <p>FreshDesk service may collect information from Your Device.</p>
+            <p>
+              The information gathered by FreshDesk is held in accordance with
+              its Privacy Policy:
+              <a href="https://www.freshworks.com/privacy/"
+                >https://www.freshworks.com/privacy/</a
+              >.
+            </p>
+            <h4>
+              6. "Do Not Track" Policy as Required by California Online Privacy
+              Protection Act (CalOPPA)
+            </h4>
+            <p>Our Service does not respond to Do Not Track signals.</p>
+            <p>
+              However, some third party websites do keep track of Your browsing
+              activities. If You are visiting such websites, You can set Your
+              preferences in Your web browser to inform websites that You do not
+              want to be tracked. You can enable or disable DNT by visiting the
+              preferences or settings page of Your web browser.
+            </p>
+
+            <h4>7. Children's Privacy</h4>
+            <p>
+              Our Service does not address anyone under the age of 13. We do not
+              knowingly collect personally identifiable information or Personal
+              Data from anyone under the age of 13. If You are a parent or
+              guardian and You are aware that Your child has provided Us with
+              Personal Data, please contact Us. If We become aware that We have
+              collected Personal Data from anyone under the age of 13 without
+              verification of parental consent, We take immediate steps to
+              remove that Personal Data from Our servers.
+            </p>
+            <p>
+              We also may limit how We collect, use, and store some of the
+              Information of Users between 13 and 18 years old. In some cases,
+              this means We will be unable to provide certain functionality of
+              the Service to these users.
+            </p>
+            <p>
+              If We need to rely on consent as a legal basis for processing Your
+              Information and Your country requires consent from a parent, We
+              may require Your parent's consent before We collect and use that
+              information.
+            </p>
+
+            <h4>8. Links to Other Websites</h4>
+            <p>
+              Our Service may contain links to other websites that are not
+              operated by Us. If You click on a third party link, You will be
+              directed to that third party's site. We strongly advise You to
+              review the Privacy Policy of every site You visit.
+            </p>
+            <p>
+              We have no control over and assume no responsibility or liability
+              for the content, privacy policies or practices of any third party
+              sites or services. If You click on a link to a website not
+              operated by Us, You fully and completely assume the risk of
+              proceeding on that third party website.
+            </p>
+
+            <h4>9. Changes to this Privacy Policy</h4>
+            <p>
+              We may update our Privacy Policy from time to time. We will notify
+              You of any changes by posting the new Privacy Policy on this page.
+            </p>
+            <p>
+              We will let You know via email and/or a prominent notice on Our
+              Service, prior to the change becoming effective and update the
+              "Last updated" date at the top of this Privacy Policy.
+            </p>
+            <p>
+              You are advised to review this Privacy Policy periodically for any
+              changes. Changes to this Privacy Policy are effective when they
+              are posted on this page.
+            </p>
+
+            <h4>10. GDPR Privacy</h4>
+            <p>
+              If You are an EU resident and would like to request that your data
+              be securely removed from Our systems, however collected, please
+              send an email with proof of EU residency to
+              <a href="mailto:support@tortus.io">support@tortus.io</a>. We will
+              remove all relevant data, so long as that removal is technically
+              feasible, does not impact the legitimate accounting or business
+              practices of Our customers, and does not violate other regulatory
+              or legal standards with which We must comply. We will also
+              cooperate with Our customers in good faith to address any requests
+              they receive or that may impact them directly.
+            </p>
+            <h4>11. Contact Us</h4>
+            <p>
+              If You have any questions about this Privacy Policy, You can
+              contact us:
+            </p>
+            <p>
+              By email:
+              <a href="mailto:support@tortus.io" target="_blank"
+                >support@tortus.io</a
+              >
+            </p>
+          </div>
+        </div>
+      </section>
+      <div class="footer-wrapper">
+        <div class="max-width-footer">
+          <footer class="site-footer">
+            <div class="footer-col-1">
+              <h5>Product</h5>
+              <ul>
+                <li>
+                  <a href="/request-demo">See a Demo</a>
+                </li>
+                <li>
+                  <a href="https://owners.tortus.io/login">Owner Login</a>
+                </li>
+                <li>
+                  <a href="https://renters.tortus.io/login">Renter Login</a>
+                </li>
+              </ul>
+            </div>
+            <div class="footer-col-2">
+              <h5>Company</h5>
+              <ul>
+                <li>
+                  <a href="/about-us">About Us</a>
+                </li>
+                <li>
+                  <a href="mailto:support@tortus.io">Contact Us</a>
+                </li>
+              </ul>
+            </div>
+            <div class="footer-col-3">
+              <h6>Follow</h6>
+              <ul>
+                <li>
+                  <a href="https://www.instagram.com/tortus.io/" target="_blank"
+                    >Instagram</a
+                  >
+                </li>
+              </ul>
+            </div>
+            <div class="footer-legal">
+              <p class="copyright">
+                © Copyright 2019-2020 Tortus LLC. All Rights Reserved.
+              </p>
+              <ul class="legal">
+                <li>
+                  <a href="/privacy-policy">Privacy</a>
+                </li>
+                <li>
+                  <a href="/terms-and-conditions">Terms</a>
+                </li>
+              </ul>
+            </div>
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
+      data-cfasync="false"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
+      data-cfasync="false"
+    ></script>
+    <script>
+      window.cookieconsent.initialise({
+        palette: {
+          popup: {
+            background: "#27323a",
+          },
+          button: {
+            background: "#6fd8ba",
+            text: "#27323a",
+          },
+        },
+        theme: "classic",
+        content: {
+          message:
+            "We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from. By browsing our website, you consent to our use of cookies and other tracking technologies.",
+          href: "cookies-policy",
+        },
+      });
+    </script>
+  </body>
+</html>

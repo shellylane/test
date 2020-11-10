@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link href="css/main.css" rel="stylesheet" />
+    <link href="/images/favicon.png" rel="icon" type="image/png" />
+    <script
+      crossorigin="anonymous"
+      src="https://kit.fontawesome.com/b352698027.js"
+    ></script>
+    <!-- Pagesense tag -->
+    <script src="https://cdn.pagesense.io/js/tortus/77bf846a239442cd9afe66f1fbc4c998.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-159138136-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+
+      gtag("config", "UA-159138136-1");
+    </script>
+
+    <title>Tortus | Renters</title>
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+  </head>
+
+  <body>
+    <div class="site-container renters">
+      <div id="skewed-bg"></div>
+      <div class="max-width-1">
+        <div class="site-header">
+          <h1 class="header-logo">
+            <a href="/"></a>
+          </h1>
+          <nav class="site-nav">
+            <input class="menu-btn" id="menu-btn" type="checkbox" />
+            <label class="menu-icon" for="menu-btn"
+              ><span class="nav-icon"></span
+            ></label>
+            <ul class="menu">
+              <li>
+                <a class="nav-item" href="/">Owners</a>
+              </li>
+              <li>
+                <a class="nav-item active" href="renters">Renters</a>
+              </li>
+              <li>
+                <a class="nav-item" href="/about-us">About Us</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <section id="hero">
+          <div class="copy-wrapper">
+            <h1>We make the rental process easy.</h1>
+            <p class="lg">
+              We accepted the challenge to make renting simple and satisfying
+              for everyone involved.
+            </p>
+          </div>
+          <div id="hero-img">
+            <img alt="hero image" src="images/renters-hero.svg" />
+          </div>
+        </section>
+      </div>
+
+      <section id="primary">
+        <div class="max-width-2">
+          <h2>Why Tortus?</h2>
+          <p class="lg">
+            Finding a home can be stressful, but it doesn’t need to be. Tortus
+            manages the whole process from start to finish, helping you find and
+            move into a place you love,
+            <span class="bold">without a broker or added fees.</span>
+          </p>
+          <a class="btn primary" href="#tertiary">Recommend Tortus</a>
+        </div>
+      </section>
+      <div class="max-width-1">
+        <div class="spotlight-wrapper">
+          <section id="spotlight">
+            <div id="spotlight-col-left">
+              <h3>Our Features</h3>
+              <ul>
+                <li>Apply and submit online applications</li>
+                <li>Securely upload documents</li>
+                <li>Sign lease agreements remotely</li>
+                <li>
+                  Obtain renters insurance
+                  <span class="italic">(coming soon)</span>
+                </li>
+                <li>
+                  Submit payments for rent and security deposits
+                  <span class="italic">(coming soon)</span>
+                </li>
+                <li>
+                  Submit maintenance requests
+                  <span class="italic">(coming soon)</span>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </div>
+      </div>
+      <div id="secondary-bg">
+        <div class="max-width-1">
+          <section id="secondary">
+            <div class="secondary-col-left">
+              <div class="highlight">
+                <img
+                  alt="pen"
+                  class="highlight-icon"
+                  src="/images/signing-04.svg"
+                />
+              </div>
+              <h3>Convenient Applications & Lease Signing</h3>
+              <p class="sm">
+                A mobile-optimized, secure design makes it easy to submit
+                on-the-go, apply together with roommates and/or guarantors, and
+                upload personal documents with confidence. Even review and sign
+                your lease remotely wherever you are.
+              </p>
+            </div>
+            <div class="secondary-col-right">
+              <div class="col-top">
+                <div class="highlight">
+                  <img
+                    alt="partner stack"
+                    class="highlight-icon"
+                    src="/images/partners-05.svg"
+                  />
+                </div>
+                <h3>Rental Tools Beyond Your Move-In Date</h3>
+                <p class="sm">
+                  Enhance your move with our established collection of
+                  partnerships and use our online portal to revisit previous
+                  applications and lease documents. Keep all your records in one
+                  place without the paperwork.
+                </p>
+              </div>
+              <div class="col-bottom">
+                <div class="highlight">
+                  <img
+                    alt="private data"
+                    class="highlight-icon"
+                    src="/images/privacy-06.svg"
+                  />
+                </div>
+                <h3>Controlled Data Sharing & Protection</h3>
+                <p class="sm">
+                  Private data remains private. Only share personal information
+                  with those who need it, via trusted third-party providers.
+                </p>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+      <div class="footer-wrapper">
+        <section id="tertiary">
+          <div class="max-width-2">
+            <h2>Recommend Tortus</h2>
+            <p class="med">
+              If you’re tired of the old way of renting, you can refer a
+              building owner to Tortus. Submit their information below and we’ll
+              introduce ourselves.
+            </p>
+            <form action="" class="referral">
+              <div class="your-info">
+                <h5>Your Information</h5>
+                <div class="form-container">
+                  <div class="form-group">
+                    <label
+                      >Your Full Name <input class="text-field" type="text"
+                    /></label>
+                  </div>
+                  <div class="form-group">
+                    <label
+                      >Your Email <input class="text-field" type="email"
+                    /></label>
+                  </div>
+                  <div class="form-group">
+                    <label
+                      >Your Building Address
+                      <input class="text-field" type="text"
+                    /></label>
+                  </div>
+                </div>
+              </div>
+              <div class="owner-info">
+                <h5>Building Owner Information</h5>
+                <div class="form-container">
+                  <div class="form-group">
+                    <label
+                      >Owner Full Name <input class="text-field" type="text"
+                    /></label>
+                  </div>
+                  <div class="form-group">
+                    <label
+                      >Owner Company Name <input class="text-field" type="text"
+                    /></label>
+                  </div>
+                  <div class="form-group">
+                    <label
+                      >Owner Phone Number or Email
+                      <input class="text-field" type="text"
+                    /></label>
+                  </div>
+                </div>
+              </div>
+              <button class="btn primary w-100">Submit</button>
+            </form>
+          </div>
+        </section>
+        <div class="max-width-footer">
+          <footer class="site-footer">
+            <div class="footer-col-1">
+              <h5>Product</h5>
+              <ul>
+                <li>
+                  <a href="/request-demo">See a Demo</a>
+                </li>
+                <li>
+                  <a href="https://owners.tortus.io/login">Owner Login</a>
+                </li>
+                <li>
+                  <a href="https://renters.tortus.io/login">Renter Login</a>
+                </li>
+              </ul>
+            </div>
+            <div class="footer-col-2">
+              <h5>Company</h5>
+              <ul>
+                <li>
+                  <a href="/about-us">About Us</a>
+                </li>
+                <li>
+                  <a href="mailto:support@tortus.io">Contact Us</a>
+                </li>
+              </ul>
+            </div>
+            <div class="footer-col-3">
+              <h5>Follow</h5>
+              <ul>
+                <li>
+                  <a href="#">Instagram</a>
+                </li>
+              </ul>
+            </div>
+            <div class="footer-legal">
+              <p class="copyright">
+                © Copyright 2019-2020 Tortus LLC. All Rights Reserved.
+              </p>
+              <ul class="legal">
+                <li>
+                  <a href="/privacy-policy">Privacy</a>
+                </li>
+                <li>
+                  <a href="/terms-and-conditions">Terms</a>
+                </li>
+              </ul>
+            </div>
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <script
+      data-cfasync="false"
+      src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
+    ></script>
+    <script
+      data-cfasync="false"
+      src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
+    ></script>
+    <script>
+      window.cookieconsent.initialise({
+        palette: {
+          popup: {
+            background: "#27323a",
+          },
+          button: {
+            background: "#6fd8ba",
+            text: "#27323a",
+          },
+        },
+        theme: "classic",
+        content: {
+          message:
+            "We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from. By browsing our website, you consent to our use of cookies and other tracking technologies.",
+          href: "cookies-policy",
+        },
+      });
+    </script>
+    <script>
+      var modal = document.querySelector(".signup-modal");
+      var trigger = document.querySelector(".trigger");
+      var closeButton = document.querySelector(".close-button");
+
+      function toggleModal() {
+        modal.classList.toggle("show-modal");
+      }
+
+      function windowOnClick(event) {
+        if (event.target === modal) {
+          toggleModal();
+        }
+      }
+
+      trigger.addEventListener("click", toggleModal);
+      closeButton.addEventListener("click", toggleModal);
+      window.addEventListener("click", windowOnClick);
+    </script>
+  </body>
+</html>

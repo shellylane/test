@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link href="css/main.css" rel="stylesheet" />
+    <link href="/images/favicon.png" rel="icon" type="image/png" />
+    <script
+      crossorigin="anonymous"
+      src="https://kit.fontawesome.com/b352698027.js"
+    ></script>
+    <!-- Pagesense tag -->
+    <script src="https://cdn.pagesense.io/js/tortus/77bf846a239442cd9afe66f1fbc4c998.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-159138136-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+
+      gtag("config", "UA-159138136-1");
+    </script>
+
+    <title>Tortus | Renters</title>
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+  </head>
+
+  <body>
+    <div class="site-container about">
+      <div class="max-width-1">
+        <div class="site-header">
+          <h1 class="header-logo">
+            <a href="/"></a>
+          </h1>
+          <nav class="site-nav">
+            <input class="menu-btn" id="menu-btn" type="checkbox" />
+            <label class="menu-icon" for="menu-btn"
+              ><span class="nav-icon"></span
+            ></label>
+            <ul class="menu">
+              <li>
+                <a class="nav-item" href="/">Owners</a>
+              </li>
+              <li>
+                <a class="nav-item" href="renters">Renters</a>
+              </li>
+              <li>
+                <a class="nav-item active" href="about-us">About Us</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <section id="hero">
+          <div class="copy-wrapper">&nbsp;</div>
+        </section>
+      </div>
+
+      <div id="primary-bg">
+        <div class="max-width-1">
+          <section id="primary">
+            <div>
+              <h1>Our Story</h1>
+              <p class="lg">
+                Our founders built Tortus because other solutions weren’t
+                cutting it. <br /><br />
+                On the surface, renting seems relatively straightforward. But
+                layer in marketing, showings, application reviews, timing, and
+                communication with multiple parties, and the workload starts to
+                snowball for everyone.
+                <br /><br />
+                So we assembled our team of storytellers, real estate experts,
+                and systems engineers to address the pitfalls and change the
+                experience, building tools to bridge the gap between renters and
+                owners, and making it easy for everybody to rent.
+              </p>
+            </div>
+            <div class="quote">
+              <span id="mark">“</span>
+              <p>
+                As brokers, we heard the pain points voiced by both renters and
+                owners and made it our mission to fix the process.
+              </p>
+            </div>
+          </section>
+        </div>
+      </div>
+      <div class="footer-wrapper">
+        <section id="tertiary">
+          <div class="max-width-2">
+            <h2>Our Values</h2>
+            <div class="values-grid">
+              <div class="value">
+                <h4>Question the Status Quo</h4>
+                <p class="sm">
+                  We value creativity and endless improvement; never stuck on
+                  the current path, we’re open to new directions and always
+                  learning from our own mistakes.
+                </p>
+              </div>
+              <div class="value">
+                <h4>Elevate Diverse Perspectives</h4>
+                <p class="sm">
+                  The only way to make something better is to look at it from
+                  all angles; we seek out and employ people from all backgrounds
+                  to add new viewpoints to every conversation.
+                </p>
+              </div>
+              <div class="value">
+                <h4>Take Ownership</h4>
+                <p class="sm">
+                  We are all entrepreneurs at heart; no matter their title or
+                  seniority, every employee is paramount to the success of
+                  Tortus and contributes beyond their job description.
+                </p>
+              </div>
+              <div class="value">
+                <h4>Grow Together</h4>
+                <p class="sm">
+                  We share a common goal and work collectively to accomplish it;
+                  we value collaboration over competition and push each other to
+                  learn and improve daily.
+                </p>
+              </div>
+              <div class="value">
+                <h4>Ethics Go Beyond Intentions</h4>
+                <p class="sm">
+                  We hold ourselves and our teams accountable; we understand our
+                  social footprint and don’t let good motives impact bad
+                  effects.
+                </p>
+              </div>
+              <div class="value">
+                <h4>Stay Transparent & Trustworthy</h4>
+                <p class="sm">
+                  We always seek to build trust by communicating openly and
+                  honestly, creating lasting relationships and a safe
+                  environment for everyone.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <div class="max-width-footer">
+          <footer class="site-footer">
+            <div class="footer-col-1">
+              <h5>Product</h5>
+              <ul>
+                <li>
+                  <a href="/request-demo">See a Demo</a>
+                </li>
+                <li>
+                  <a href="https://owners.tortus.io/login">Owner Login</a>
+                </li>
+                <li>
+                  <a href="https://renters.tortus.io/login">Renter Login</a>
+                </li>
+              </ul>
+            </div>
+            <div class="footer-col-2">
+              <h5>Company</h5>
+              <ul>
+                <li>
+                  <a href="/about-us">About Us</a>
+                </li>
+                <li>
+                  <a href="mailto:support@tortus.io">Contact Us</a>
+                </li>
+              </ul>
+            </div>
+            <div class="footer-col-3">
+              <h5>Follow</h5>
+              <ul>
+                <li>
+                  <a href="https://www.instagram.com/tortus.io/" target="_blank"
+                    >Instagram</a
+                  >
+                </li>
+              </ul>
+            </div>
+            <div class="footer-legal">
+              <p class="copyright">
+                © Copyright 2019-2020 Tortus LLC. All Rights Reserved.
+              </p>
+              <ul class="legal">
+                <li>
+                  <a href="/privacy-policy">Privacy</a>
+                </li>
+                <li>
+                  <a href="/terms-and-conditions">Terms</a>
+                </li>
+              </ul>
+            </div>
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <script
+      data-cfasync="false"
+      src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
+    ></script>
+    <script>
+      window.cookieconsent.initialise({
+        palette: {
+          popup: {
+            background: "#27323a",
+          },
+          button: {
+            background: "#6fd8ba",
+            text: "#27323a",
+          },
+        },
+        theme: "classic",
+        content: {
+          message:
+            "We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from. By browsing our website, you consent to our use of cookies and other tracking technologies.",
+          href: "cookies-policy",
+        },
+      });
+    </script>
+  </body>
+</html>
